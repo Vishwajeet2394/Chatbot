@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ahmadfaizalbh/Chatbot)
+
 # Chatbot
 Python chatbot AI that helps in creating a python based chatbot with
 minimal coding. This provides both bots AI and chat handler and also
